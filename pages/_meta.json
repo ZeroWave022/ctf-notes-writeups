@@ -1,0 +1,9 @@
+{
+  "index": "Introduction",
+  "another": "Another Page",
+  "notes": "Notes",
+  "about": {
+    "title": "About",
+    "type": "page"
+  }
+}
